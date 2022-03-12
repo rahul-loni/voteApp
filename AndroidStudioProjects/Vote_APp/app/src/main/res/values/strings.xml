@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SecureVote</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="leave">Leave</string>
+    <string name="home">Home</string>
+    <string name="login_subtitle">Please, login to continue.</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register_subtitle1">Don\'t have an account?</string>
+    <string name="register_subtitle">Please, register to continue.</string>
+    <string name="login_subtitle1">Already have an account?</string>
+    <string name="full_name">Full name</string>
+    <string name="citizenship_id">Citizenship id</string>
+    <string name="eligible_title">I am eligible to vote by law and above 18 by age.</string>
+    <string name="please_wait">Please wait.</string>
+    <string name="language">नेपाली</string>
+    <string name="name_required">Your full name is required.</string>
+    <string name="email_required">Your email is required.</string>
+    <string name="password_validity">Password must be 6 or more characters.</string>
+    <string name="id_required">Your citizenship id is required.</string>
+    <string name="eligible_required">You must be eligible to vote to register.</string>
+    <string name="welcome">Welcome</string>
+    <string name="place_vote">Place vote</string>
+    <string name="election_status">Election status</string>
+    <string name="best_wishes">Best wishes for victory from SecureVote.</string>
+    <string name="votes">Votes</string>
+    <string name="no_candidate_voted">No candidate is voted.</string>
+    <string name="support_candidate">Support your preferred candidate by voting.</string>
+    <string name="select_candidate">Please, select a candidate to vote.</string>
+    <string name="confirm_vote">Confirm vote</string>
+    <string name="cancel">Cancel</string>
+    <string name="candidate_image">Candidate image</string>
+    <string name="leading_for_victory">Leading for victory with most votes.</string>
+    <string name="no_candidate_selected">No candidate selected to vote.</string>
+    <string name="candidate_voted_image">Candidate voted image</string>
+</resources>

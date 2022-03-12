@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सुरक्षित मत</string>
+    <string name="login">प्रवेश गर्नुहोस्</string>
+    <string name="register">दर्ता गर्नुहोस्</string>
+    <string name="leave">बाहिर</string>
+    <string name="home">मुख्य</string>
+    <string name="login_subtitle">कृपया, प्रवेश गर्नुहोस्।</string>
+    <string name="password">पासवर्ड</string>
+    <string name="email">इ-मेल</string>
+    <string name="register_subtitle1">खाता छैन?</string>
+    <string name="register_subtitle">कृपया, दर्ता गर्नुहोस्।</string>
+    <string name="login_subtitle1">पहिले नै खाता छ?</string>
+    <string name="eligible_title">म कानून अनुसार मतदान गर्न योग्य र उमेर मा १८ भन्दा माथि छु।</string>
+    <string name="full_name">पूरा नाम थर</string>
+    <string name="citizenship_id">नागरिकता परिचय</string>
+    <string name="please_wait">कृपया पर्खनुहोस्।</string>
+    <string name="language">English</string>
+    <string name="name_required">तपाईंको पूरा नाम थर आवश्यक छ।</string>
+    <string name="email_required">तपाईंको इ-मेल आवश्यक छ।</string>
+    <string name="password_validity">पासवर्ड ६ वा बढी अक्षरहरूको हुनुपर्छ।</string>
+    <string name="id_required">तपाईंको नागरिकता परिचय आवश्यक छ।</string>
+    <string name="eligible_required">दर्ताको लागि तपाईं मतदान गर्न योग्य हुनुपर्छ।</string>
+    <string name="welcome">नमस्ते</string>
+    <string name="place_vote">मतदान गर्नुहोस्</string>
+    <string name="election_status">निर्वाचन स्थिति</string>
+    <string name="best_wishes">सुरक्षित मतको तर्फबाट विजयी हुने शुभकामना ।</string>
+    <string name="votes">मतहरू</string>
+    <string name="support_candidate">आफ्नो मनपर्ने उम्मेदवारलाई मतदान गरेर समर्थन गर्नुहोस्।</string>
+    <string name="no_candidate_voted">कुनै पनि उम्मेदवारलाई मतदान गरिएको छैन।</string>
+    <string name="select_candidate">कृपया, मतदान गर्न उम्मेदवार छान्नुहोस्।</string>
+    <string name="confirm_vote">मत पुष्टि गर्नुहोस्</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="candidate_image">उम्मेदवारको तस्वीर</string>
+    <string name="leading_for_victory">सबैभन्दा बढी मत लिएर जितको लागि अग्रसर।</string>
+    <string name="no_candidate_selected">मतदानको लागि कुनै उम्मेदवार छान्निएको छैन।</string>
+    <string name="candidate_voted_image">मतदान गरिएको उम्मेदवारको तस्वीर</string>
+</resources>

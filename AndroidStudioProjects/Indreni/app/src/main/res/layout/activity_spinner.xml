@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:menu="@menu/menu"
+    tools:context=".Spinner">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/burger"
+        app:civ_border_width="10dp"
+        android:layout_gravity="center"
+        app:civ_border_color="#545342"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/black"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Boys"
+            android:textSize="22sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Girls "
+            android:textSize="22sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:textStyle="bold"/>
+
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_btn"
+        android:drawableLeft="@drawable/ic_baseline_settings_24"
+        android:drawablePadding="6dp"
+        android:Layout_gravity="center"
+        android:height="60dp"
+        android:padding="6dp"
+        android:text="AndroidDhina"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+      />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="19dp"/>
+
+</LinearLayout>
